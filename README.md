@@ -36,4 +36,14 @@ I also used Networkwalks Academy’s Hash Calculator and Password Cracker to aud
 
 During Week 3 of my Cybersecurity & Ethical Hacking training , I completed practical activities covering Password Cracking using JTR JOHNNY , Networkwalks Hash Calculator and NW Password Cracker. 
 Here below are the screenshot : 
+![whois output](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK3-PM1-PM2-Password-Cracking-JTRV1-NW-Tool-LAB-SETUP/blob/ac923fed55161e50fb024d4454ddb0a9a228ac41/JTR.png)
+![whois output](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK3-PM1-PM2-Password-Cracking-JTRV1-NW-Tool-LAB-SETUP/blob/ac923fed55161e50fb024d4454ddb0a9a228ac41/Hashcrack%20pdf%201%20.png)
+![whois output](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK3-PM1-PM2-Password-Cracking-JTRV1-NW-Tool-LAB-SETUP/blob/ac923fed55161e50fb024d4454ddb0a9a228ac41/Networkwalks%20hash%20calculator%20.png)
+![whois output](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK3-PM1-PM2-Password-Cracking-JTRV1-NW-Tool-LAB-SETUP/blob/ac923fed55161e50fb024d4454ddb0a9a228ac41/psswd%20cracked%20using%20network%20psswd%20cracker.png)
+![whois output](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK3-PM1-PM2-Password-Cracking-JTRV1-NW-Tool-LAB-SETUP/blob/ac923fed55161e50fb024d4454ddb0a9a228ac41/Pdf%20open%20.png)
+![whois output](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK3-PM1-PM2-Password-Cracking-JTRV1-NW-Tool-LAB-SETUP/blob/ac923fed55161e50fb024d4454ddb0a9a228ac41/Pdf%202%20psswd%20.png)
+![whois output](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK3-PM1-PM2-Password-Cracking-JTRV1-NW-Tool-LAB-SETUP/blob/ac923fed55161e50fb024d4454ddb0a9a228ac41/pdf%203%20.png)
+![whois output](https://github.com/Djama20/NETWORKWALKS-Djama-B084-WK3-PM1-PM2-Password-Cracking-JTRV1-NW-Tool-LAB-SETUP/blob/ac923fed55161e50fb024d4454ddb0a9a228ac41/NW%20pdf%20unlocked%20using%20networkwalks%20tools.png)
+
+
 
